@@ -7,7 +7,7 @@ interface GamesSectionProps {
 
 // Imagens dos jogos (usando placeholders)
 const hotGames: Game[] = [
-  { id: '1', name: 'Fortune Tiger', image: 'https://i.postimg.cc/ZnmmqzKJ/fortune-tiger.jpg', isHot: true },
+  { id: '1', name: 'Fortune Tiger', image: 'https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?w=400&h=500&fit=crop', isHot: true },
   { id: '2', name: 'Fortune Ox', image: 'https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=500&fit=crop', isHot: true },
   { id: '3', name: 'Fortune Rabbit', image: 'https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?w=400&h=500&fit=crop', isHot: true },
   { id: '4', name: 'Fortune Dragon', image: 'https://images.unsplash.com/photo-1577493340887-b7bfff550145?w=400&h=500&fit=crop', isHot: true },
