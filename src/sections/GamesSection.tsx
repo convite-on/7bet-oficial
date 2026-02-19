@@ -8,11 +8,11 @@ interface GamesSectionProps {
 // Imagens dos jogos (usando placeholders)
 const hotGames: Game[] = [
   { id: '1', name: 'Fortune Tiger', image: 'https://i.postimg.cc/ZnmmqzKJ/fortune-tiger.jpg', isHot: true },
-  { id: '2', name: 'Fortune Ox', image: 'https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=500&fit=crop', isHot: true },
-  { id: '3', name: 'Fortune Rabbit', image: 'https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?w=400&h=500&fit=crop', isHot: true },
-  { id: '4', name: 'Fortune Dragon', image: 'https://images.unsplash.com/photo-1577493340887-b7bfff550145?w=400&h=500&fit=crop', isHot: true },
+  { id: '2', name: 'Fortune Ox', image: 'https://i.postimg.cc/yNR23pGW/fortune-ox.jpg', isHot: true },
+  { id: '3', name: 'Fortune Rabbit', image: 'https://i.postimg.cc/8PC3mzY9/fortune-rabbit.jpg', isHot: true },
+  { id: '4', name: 'Fortune Dragon', image: 'https://i.postimg.cc/9Q6n2tfr/fortune-dragon.jpg', isHot: true },
   { id: '5', name: 'Big Bass Splash', image: 'https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=400&h=500&fit=crop', isHot: true },
-  { id: '6', name: 'Gates Of Olympus', image: 'https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400&h=500&fit=crop', isHot: true },
+  { id: '6', name: 'Gates Of Olympus', image: 'https://i.postimg.cc/SsDdnWmG/olympus.jpg', isHot: true },
 ];
 
 const slotsGames: Game[] = [
